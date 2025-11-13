@@ -570,4 +570,3 @@ if __name__ == "__main__":
 
 # while not rospy.is_shutdown():
 #          class_sub.ctrl()
-이 코드를 정리해서 깃허브 repository를 만들고 싶은데 어떻게 만들어야해
